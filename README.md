@@ -1,4 +1,4 @@
-<img src="./피싱앱로고.png" width="50" height="50"/>
+<img src="./피싱앱로고.png" width="100" height="100"/>
 
 
 # **데이터사이언스 캡스톤디자인**
