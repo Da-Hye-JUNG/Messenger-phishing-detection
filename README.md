@@ -1,4 +1,5 @@
-<img src="[!피싱앱로고.png](https://github.com/Da-Hye-JUNG/Messenger-phishing-detection/blob/main/%ED%94%BC%EC%8B%B1%EC%95%B1%EB%A1%9C%EA%B3%A0.png?raw=true)" width="50" height="50"/>
+<img src="![피싱앱로고.png](https://github.com/Da-Hye-JUNG/Messenger-phishing-detection/피싱앱로고.png)" width="50" height="50"/>
+
 
 # **데이터사이언스 캡스톤디자인**
 ## AI기반 메신저 피싱 예측에 따른 사전 예방 서비스
@@ -65,9 +66,8 @@
 
 - 서비스 아키텍처
 
-  클라이언트 카톡데이터 → 파이어베이스(DB) → flask(딥러닝서버) → 안드로이드
+  ![image](https://github.com/Da-Hye-JUNG/Messenger-phishing-detection/assets/96599427/6b4722f2-4358-45dd-9697-475317a2ad39)
 
-  ![image](https://github.com/Da-Hye-JUNG/Messenger-phishing-detection/assets/96599427/f934ded9-7b01-4f1b-9589-4ead3e1cbfbb)
 
 ### 구현과정
 과제 결과물: 피싱 여부를 예측하여 알림을 전송하는 안드로이드 어플리케이션
