@@ -1,4 +1,4 @@
-<img src="![피싱앱로고](https://github.com/Da-Hye-JUNG/Messenger-phishing-detection/assets/96599427/e3326045-cfe6-43f5-83c6-e50cee535138)" width="50" height="50"/>
+<img src="[!피싱앱로고.png](https://github.com/Da-Hye-JUNG/Messenger-phishing-detection/blob/main/%ED%94%BC%EC%8B%B1%EC%95%B1%EB%A1%9C%EA%B3%A0.png?raw=true)" width="50" height="50"/>
 
 # **데이터사이언스 캡스톤디자인**
 ## AI기반 메신저 피싱 예측에 따른 사전 예방 서비스
