@@ -1,4 +1,4 @@
-<img src="![피싱앱로고.png](https://github.com/Da-Hye-JUNG/Messenger-phishing-detection/피싱앱로고.png)" width="50" height="50"/>
+<img src="![피싱앱로고.png](./피싱앱로고.png)" width="50" height="50"/>
 
 
 # **데이터사이언스 캡스톤디자인**
